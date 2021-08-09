@@ -30,7 +30,7 @@ PySocks==1.6.8
 pyTelegramBotAPI==3.6.3
 pytest==3.5.0
 pytest-runner==4.2
-pywin32==223
+pywin32==301
 queuelib==1.5.0
 requests==2.18.4
 ruamel-yaml==0.15.35
